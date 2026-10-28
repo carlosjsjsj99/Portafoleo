@@ -1,0 +1,5 @@
+Código: PROD-D66B27
+Id: 1
+Nombre: Producto sin nombre
+Precio: 1500
+Stock: 5
